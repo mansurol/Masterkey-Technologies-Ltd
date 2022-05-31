@@ -1,0 +1,22 @@
+.AdStyle{
+    width: 170px;
+    height: 40px;
+    
+    border-radius: 25px;
+    background-color: #DEE1E6;
+    box-shadow: gainsboro;
+    position:relative;
+
+}
+.AdStyle:hover{
+    background-color: #ff6f00;
+}
+
+.AdStyle a{
+    position: absolute;
+  font-size: 18px;
+text-decoration: none;
+    color: #000;
+    margin-left: 35px;
+    margin-top: 7px;
+}

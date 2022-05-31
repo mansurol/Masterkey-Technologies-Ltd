@@ -1,0 +1,30 @@
+.StyleLogin{
+    width: 205px;
+    border-radius: 35px;
+    background-color: #fff;
+}
+.StyleLogin a {
+    color: #000;
+    margin-left: 10px;
+    text-decoration: none;
+    padding: 10px;
+}
+.StyleSingUp {
+    width: 110px;
+    padding: 4px;
+    border-radius: 35px;
+    background-color: #ff6f00;
+}
+.StyleSingUp a{
+    color: #fff;
+    text-decoration: none;
+
+ 
+}
+.MenubarContent{
+    color: #644f9c;
+   
+}
+.MenubarContent:hover {
+    color: #ff6f00;
+}

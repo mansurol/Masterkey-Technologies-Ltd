@@ -1,0 +1,49 @@
+.bgColor2{
+    background-color: #644f9c;
+}
+.HeaderOnline{
+    color: #fff;
+ }
+.Circle{
+    width: 250px;
+    height: 250px;
+    border: 3px dotted #fff;
+    border-radius: 140px;
+}
+
+.CircleContent{
+    margin-top: 100px;
+    margin-left: 70px;
+    color: #fff;
+}
+.Circle2{
+    width: 250px;
+    height: 250px;
+    border: 3px solid #fff;
+    border-radius: 140px;
+    background-color:#fff;
+}
+.CircleContent2{
+    margin-top: 100px;
+    margin-left: 70px;
+    color: #644f9c;
+   
+}
+.CircleContent2 p {
+    margin-left: 30px;
+}
+
+.Circle3{
+    width: 250px;
+    height: 250px;
+    border: 3px solid #ff6f00;
+    border-radius: 140px;
+    background-color:#ff6f00;
+}
+.CircleContent3{
+    margin-top: 100px;
+    margin-left: 70px;
+    color: #fff;
+   
+}
+

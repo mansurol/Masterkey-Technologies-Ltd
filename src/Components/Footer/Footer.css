@@ -1,0 +1,21 @@
+.H6style h6{
+    color: #644f9c;
+}
+a.youtube {
+    color: #eb3223;
+  }
+  
+  a.facebook {
+    color:blue;
+  }
+  
+
+  
+  a.instagram {
+    color: rgb(212, 158, 41);
+  }
+a.social {
+    margin:0 0.5rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }

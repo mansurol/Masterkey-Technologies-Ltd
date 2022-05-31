@@ -1,0 +1,41 @@
+.SliderStyleBox{
+    width: 560px;
+    height: 240px;
+    border-radius: 15px;
+    box-shadow: gray;
+    background-color: #fff;
+}
+.bgColor4{
+    background-color: #f2f2f2;
+}
+.lineGap{
+    margin-left: 20px;
+}
+.SliderStyleBox2{
+    width: 520px;
+    height: 220px;
+    border-radius: 15px;
+    border: 2px dotted #ff6f00;
+    margin-left: 14px;
+    margin-top: 10px;
+}
+.SliderStyleBox2 img{
+  width: 220px;
+  height:200px;
+  margin-left: 10px;
+  margin-top:5px;
+}
+.SliderContent{
+    text-align: justify;
+    
+    padding: 16px;
+}
+.ArrowBox{
+    width: 25px;
+    height: 25px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+.ArrowBox img{
+padding: 10px;
+}
